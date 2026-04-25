@@ -101,7 +101,7 @@ http://localhost/GaiaCity/login.php
 
 ---
 
-## 👤 Akun Demo
+##  Akun Demo
 
 | Role | Email | Password |
 |---|---|---|
@@ -111,7 +111,7 @@ http://localhost/GaiaCity/login.php
 
 ---
 
-## 🛠️ Teknologi
+##  Teknologi
 
 ![PHP](https://img.shields.io/badge/PHP-8.0+-777BB4?style=flat&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
@@ -120,7 +120,7 @@ http://localhost/GaiaCity/login.php
 
 ---
 
-## 📄 Lisensi
+##  Lisensi
 
 Proyek ini dibuat untuk keperluan **Tugas Besar** mata kuliah Pemrograman Web.  
 © 2025 GaiaCity Team
