@@ -1,25 +1,25 @@
-# 🌿 GaiaCity — Sistem Pelaporan Lingkungan
+#  GaiaCity — Sistem Pelaporan Lingkungan
 
 > Aplikasi web berbasis **PHP + MySQL** untuk pelaporan masalah lingkungan kota.  
 > Menerapkan **OOP (Object-Oriented Programming)**, CRUD, upload file, dan autentikasi berbasis peran.
 
 ---
 
-## 📸 Fitur Utama
+##  Fitur Utama
 
 | Fitur | Keterangan |
 |---|---|
-| 🔐 Login / Register | Autentikasi aman dengan `password_hash` & `password_verify` |
-| 🏠 Dashboard | Hanya bisa diakses setelah login (redirect otomatis) |
-| 📋 CRUD Laporan | Create, Read, Update, Delete laporan lingkungan |
-| 📷 Upload Foto | Satu tombol **Simpan** = CRUD + upload file sekaligus |
-| 👥 Role-Based Access | Citizen hanya lihat milik sendiri; Officer & Admin lihat semua |
-| 🔍 Filter & Cari | Filter kategori + pencarian judul/lokasi |
-| 📊 Statistik | Ringkasan Total, Pending, Diproses, Selesai |
+|  Login / Register | Autentikasi aman dengan `password_hash` & `password_verify` |
+|  Dashboard | Hanya bisa diakses setelah login (redirect otomatis) |
+|  CRUD Laporan | Create, Read, Update, Delete laporan lingkungan |
+|  Upload Foto | Satu tombol **Simpan** = CRUD + upload file sekaligus |
+|  Role-Based Access | Citizen hanya lihat milik sendiri; Officer & Admin lihat semua |
+|  Filter & Cari | Filter kategori + pencarian judul/lokasi |
+|  Statistik | Ringkasan Total, Pending, Diproses, Selesai |
 
 ---
 
-## 🏗️ Arsitektur OOP
+##  Arsitektur OOP
 
 ```
 classes/
@@ -38,7 +38,7 @@ classes/
 
 ---
 
-## 🗂️ Struktur Proyek
+##  Struktur Proyek
 
 ```
 GaiaCity/
@@ -62,7 +62,7 @@ GaiaCity/
 
 ---
 
-## ⚙️ Instalasi
+##  Instalasi
 
 ### Prasyarat
 - XAMPP / Laragon (PHP >= 8.0, MySQL)
