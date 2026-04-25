@@ -123,4 +123,4 @@ http://localhost/GaiaCity/login.php
 ## 📄 Lisensi
 
 Proyek ini dibuat untuk keperluan **Tugas Besar** mata kuliah Pemrograman Web.  
-© 2024 GaiaCity Team
+© 2025 GaiaCity Team
